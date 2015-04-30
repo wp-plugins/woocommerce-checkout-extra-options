@@ -1,7 +1,7 @@
 === WooCommerce Checkout Extra options ===
 Contributors: kantverma,vinitaverma
 Author: http://kantsverma.tumblr.com
-Donate link: https://www.paypal.com/in/cgi-bin/webscr?cmd=_flow&SESSION=spSL75vlWnkg1WVct6CC0LExKyAitnxsq-Xc4QNS0Cqk2_zCvkd41crkQY4&dispatch=50a222a57771920b6a3d7b606239e4d529b525e0b7e69bf0224adecfb0124e9b61f737ba21b08198ecd47ed44bac94cd6fd721232afa4155
+Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=dev.vini85@gmail.com&item_name=Cup%20of%20cofee
 Tags: wooCommerce, wooCommerce checkout
 Requires at least: 3.0.1
 Tested up to: 3.4
